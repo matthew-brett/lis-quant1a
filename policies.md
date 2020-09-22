@@ -84,6 +84,8 @@ prose.  We will look for signs that you have copied code and written answers
 from each other, and we will treat this as plagiarism, in the same way as we
 would for any other course.
 
+## The difference between collaboration and copying
+
 Do not work on the graded homework together, and you should never look at
 anyone else's finished answers to the homework.  Do your best to finish all
 the exercises and homework yourself.  If you get stuck, go back to the notes
