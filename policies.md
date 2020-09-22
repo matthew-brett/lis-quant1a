@@ -96,3 +96,8 @@ By all means work out the solution in your discussion, with your classmates or
 your teachers, but implement that solution yourself.  You will find that you
 learn most this way, because your questions will be deeper and more useful
 after you have worked on the material for a while.
+
+## Credits
+
+Some of this page derived from reflection on the wise words in the [Data
+8 class policies](http://data8.org/fa20/policies.html).
