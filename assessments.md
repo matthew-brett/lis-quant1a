@@ -21,15 +21,20 @@ Please feel free to work together on these exercises, but remember that *you
 must work independently on the graded assessments*.  See the notes on [working
 together](Working together)
 
+![](../file_contents/course%20files/images/jh_new_menu.png)
+
 ## Assessments
 
 There are three graded assessments.
 
-1. Coursework 1: 15%; deadline 6 November 2020
-2. Coursework 2: 15%; deadline 30 November 2020
+1. Homework 1: 15%; deadline 6 November 2020
+2. Homework 2: 15%; deadline 30 November 2020
 3. Structured data analysis: 70%; deadline 15 January 2021.
 
-All the assessments are in the form of Jupyter Notebooks, the format we will be working with throughout the course, for the lectures and exercises.
+See the [assignments list](../assignments) for links to the assignments.
+
+All the assessments are in the form of Jupyter Notebooks, the format we will
+be working with throughout the course, for the lectures and exercises.
 
 By the time you submit the first assessment you will be very familiar with the procedure of opening and editing Jupyter Notebooks.  The assignments add the extra step of downloading your completed notebook to your computer, and then submitting to Canvas.
 
