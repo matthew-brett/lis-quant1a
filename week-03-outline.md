@@ -14,7 +14,7 @@ Complete the following sections (that you should have skipped last week):
 * Section 3b: Tables (Lec 3.4 - Lec 3.7)
 * Reading and Practice for Section 3b
 
-Now proceed to week 2 of the course, and do the following:
+Now proceed to Week 2 of the course, and do the following:
 
 * Section 4: Expressions (Lec 4.1 - Lec 4.5)
 * Reading and Practice for Section 4

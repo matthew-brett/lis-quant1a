@@ -28,6 +28,14 @@ Please consider further [background reading](Background reading).
 You'll also find these resources in the [resource
 list](../modules/334819)
 
+## Tools
+
+This course uses [Python and the Jupyter
+Notebook](https://matthew-brett.github.io/cfd2020/intro/the_software.html).
+You do not need to install anything on your computer; we have set up a system
+to run [Python / Jupyter in the cloud](python-slash-jupyter-in-the-cloud) so
+you can do your work in the cloud, via a web browser.
+
 ## Policies
 
 See policies on [working together](Working together).  Please make sure you
