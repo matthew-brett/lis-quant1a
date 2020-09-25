@@ -16,7 +16,7 @@ for deeper understanding of data analysis and statistics.
 *   Simulation and basic statistical inference.
 *   Straight line relationships with correlation and regression.
 
-## Course textbook
+## Resources
 
 We will be following the online class textbook at
 <https://github.com/matthew-brett/cfd2020>.
