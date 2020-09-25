@@ -3,7 +3,7 @@ You should do your exercises in the [R in the cloud](R in the cloud) system.
 Click the exercise / homework link to go to the exercise.
 
 When you click on the exercise / homework link, the cloud system will fetch
-the files you need, and it will usually open the cloud system in your browser.
+the files you need, and it will open the cloud system in your browser.
 
 Depending on the link, the cloud system may open directly in RStudio, in which case your browser tab will look something like this (depending on where you left RStudio last time):
 
@@ -32,7 +32,7 @@ For example, imagine the instructions say you should be working on the `bio240_h
 
 Then you would open the `bio240_hw01.Rmd` file:
 
-![](../file_contents/course%20files/images/rstudio_save.png)
+![](../file_contents/course%20files/images/rstudio_hw01_file.png)
 
 See the instructions for the homework or exercise, for what to do next.
 
@@ -40,11 +40,11 @@ See the instructions for the homework or exercise, for what to do next.
 
 When you have finished, don't forget to save the file(s) you have been working on.
 
-![](../file_contents/course%20files/images/rstudio_hw01_file.png)
+![](../file_contents/course%20files/images/rstudio_save.png)
 
 ## If you are submitting homework
 
-If you are submitting this file, see [submitting from the R cloud](Submitting from R cloud).
+If you are submitting this file, then [download the file from R cloud](Download from R cloud), and submit the downloaded file via Canvas.
 
 Any problems, use the Discussion section on Canvas, or email
 <m.brett@bham.ac.uk>.
