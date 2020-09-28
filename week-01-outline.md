@@ -1,9 +1,9 @@
 ## This week's activities
 
-* [Live: introduction and
-  hello](https://canvas.bham.ac.uk/courses/46369/external_tools/13630)
-* [Live: working with code and
-  data](https://canvas.bham.ac.uk/courses/46369/external_tools/13630)
+* [Monday 10am; live: introduction and
+  hello](https://bham-ac-uk.zoom.us/j/91750966016?pwd=d1VJZTRoL0Zwc2FoSjdLZjkvUFJEdz09)
+* [Tuesday 4pm; live: working with code and
+  data](https://bham-ac-uk.zoom.us/j/89686766160?pwd=a1h2WUJabTlVVEFSbXV4SVE2cXpmdz09)
 
 ## Video: introducing data science
 

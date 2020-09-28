@@ -2,8 +2,8 @@
 
 ## Workshops
 
-* [Live: Monday workshop](https://canvas.bham.ac.uk/courses/46369/external_tools/13630)
-* [Live: Tuesday workshop](https://canvas.bham.ac.uk/courses/46369/external_tools/13630)
+* [Monday 10am; live workshop](https://bham-ac-uk.zoom.us/j/91750966016?pwd=d1VJZTRoL0Zwc2FoSjdLZjkvUFJEdz09)
+* [Tuesday 4pm; live workshop](https://bham-ac-uk.zoom.us/j/89686766160?pwd=a1h2WUJabTlVVEFSbXV4SVE2cXpmdz09)
 
 Go back to complete Week 2 of the [data8x](data8x) course.
 
