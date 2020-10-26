@@ -2,6 +2,8 @@
 
 * [Monday 10am; live: introduction and
   hello](https://bham-ac-uk.zoom.us/j/91750966016?pwd=d1VJZTRoL0Zwc2FoSjdLZjkvUFJEdz09)
+  - [link for
+  recording](https://bham-ac-uk.zoom.us/rec/share/psKyBmocuhEKR3ABDcX3HjUGNdHeweTkwhQbrJkIr9ztN0WDqvu8DMZG8pjpM-3D.Q--TuxVibmA1FWdf?startTime=1601283813000).
 * [Tuesday 4pm; live: working with code and
   data](https://bham-ac-uk.zoom.us/j/89686766160?pwd=a1h2WUJabTlVVEFSbXV4SVE2cXpmdz09)
 
