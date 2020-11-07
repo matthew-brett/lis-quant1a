@@ -7,7 +7,7 @@
   [workshop notes](monday-2-november-workshop).
 * [Tuesday 4pm; live
   workshop](https://bham-ac-uk.zoom.us/j/86967661263?pwd=RHhFKzhpUWMrV1oydFFYWktMTmtLQT09);
-  [workshop notes](tuesday-3-november-workshop).
+  [workshop notes](tuesday-3rd-november-workshop).
 
 See the Panopto section for the recordings of these workshops.
 
