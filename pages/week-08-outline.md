@@ -4,33 +4,26 @@
 
 * [Monday 9am; live
   workshop](https://bham-ac-uk.zoom.us/j/88906777164?pwd=U0VMZjFBbG5oNVdYTzU1My9raVJYZz09);
-  [workshop notes](monday-2-november-workshop).
+  [workshop notes](monday-16-november-workshop).
 * [Tuesday 4pm; live
   workshop](https://bham-ac-uk.zoom.us/j/86967661263?pwd=RHhFKzhpUWMrV1oydFFYWktMTmtLQT09);
-  [workshop notes](tuesday-3-november-workshop).
+  [workshop notes](tuesday-17-november-workshop).
 
 See the Panopto section for the recordings of these workshops.
 
-From Tuesday, here is the [solution to fix_my_fors
-exercise](../file_contents/course%20files/fix_my_fors_solution.ipynb).
+## Backup activities
 
-To open the file above on the UOBHub system, download the file to your
-computer, then go to <https://uobhub.org>, and use the Upload button towards
-the top right of the screen to upload the file.  You should be able to open and
-run the file from that interface.
+Please see the [note on activities](note-on-activities).
 
-## Exercise
+**If you have not already done this** ...
 
-This week's online exercise is
-[simulation](https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/simulation&subPath=simulation.ipynb).
+Go to Week 1 of the [data8x](data8x) course.
 
-The last question in this exercise, along with the hints, is a little past what
-you have learned so far.  In particular, if you want to follow the hints, you
-should first read:
+Complete the following sections:
 
-<https://matthew-brett.github.io/cfd2020/data-frames/boolean_indexing.html>
+    Section 3b: Tables (Lec 3.4 - Lec 3.7)
+    Reading and Practice for Section 3b
 
-We'll go through this page next week - it's another fundamental building block
-for your life in selecting and changing data.
+Now proceed to Week 2 of the course, and do the following:
 
-But - you could also be creative and avoid using this technique, by remembering that, if you know how many aces there are, currently counting as rank 1, and you know the sum of the ranks across all cards when aces count as 1, then you can use that count to work out what the sum of the ranks will be if the aces count as 11.  You may be able to see what I'm getting at when you come to that question.
+    Section 5b: Minard’s Map (Lec 5.5 - Lec 5.6)
