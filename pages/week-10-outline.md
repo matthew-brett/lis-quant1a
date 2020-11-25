@@ -6,7 +6,7 @@
   workshop](https://bham-ac-uk.zoom.us/j/88906777164?pwd=U0VMZjFBbG5oNVdYTzU1My9raVJYZz09);
   [workshop notes](monday-30-november-workshop).
 * [Tuesday 4pm; live
-  workshop](https://bham-ac-uk.zoom.us/j/86967661263?pwd=RHhFKzhpUWMrV1oydFFYWktMTmtLQT09);
+  workshop](https://bham-ac-uk.zoom.us/j/85853523949?pwd=RlB5VStycUdBek1LcEg3bVhGVUN6UT09);
   [workshop notes](tuesday-1-december-workshop).
 
 See the Panopto section for the recordings of these workshops.
