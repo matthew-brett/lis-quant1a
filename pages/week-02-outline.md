@@ -1,25 +1,27 @@
-## This week's activities
-
 ## Workshops
 
-* [Monday 10am; live workshop](https://bham-ac-uk.zoom.us/j/91750966016?pwd=d1VJZTRoL0Zwc2FoSjdLZjkvUFJEdz09)
-* [Tuesday 4pm; live workshop](https://bham-ac-uk.zoom.us/j/89686766160?pwd=a1h2WUJabTlVVEFSbXV4SVE2cXpmdz09)
+* Monday time TBA; 2 hour live workshop
+* Tuesday time TBA; 2 hour live workshop
 
-## Video and activities
+## Activities
+
+Make sure you have reviewed the project video from [week 1](week-01-outline).
+
+This week your primary activity will be to [choose your data](project-data) and [form your teams](about-the-project) for the project.
+
+For the activities, below, please see the [note on activities](note-on-activities).
+
+**If you have not already done this** last term, learn the basics of using the
+Berkeley data science library, called `datascience`.
 
 Go to Week 1 of the [data8x](data8x) course.
 
 Complete the following sections:
 
-* Section 1: Introduction (Lec 1.1 - Lec 1.6)
-* Introduction and Practice with Jupyter Notebooks
-* Section 2: Cause and Effect (Lec 2.1 - Lec 2.4)
-* Reading and Practice for Section 2 Completed
-* Section 3a: Python (Lec 3.1 - Lec 3.3)
-* Reading and Practice for Section 3a
+* Section 3b: Tables (Lec 3.4 - Lec 3.7)
+* Reading and Practice for Section 3b
 
-Then complete the first lab:
+Now proceed to Week 2 of the course, and do the following:
 
-* Lab 1: Introduction to Python
-
-The system marks this automatically for you.
+* Section 5b: Minard’s Map (Lec 5.5 - Lec 5.6)
+* Section 5c: Building Tables (Lec 5.7 - Lec 5.9)

@@ -1,19 +1,20 @@
-## This week's activities
-
 ## Workshops
 
-* [Monday 10am; live workshop](https://bham-ac-uk.zoom.us/j/91750966016?pwd=d1VJZTRoL0Zwc2FoSjdLZjkvUFJEdz09)
-* [Tuesday 4pm; live workshop](https://bham-ac-uk.zoom.us/j/89686766160?pwd=a1h2WUJabTlVVEFSbXV4SVE2cXpmdz09)
+* Monday time TBA; 2 hour live workshop
+* Tuesday time TBA; 2 hour live workshop
 
-Go back to complete Week 2 of the [data8x](data8x) course.
+## Activities
 
-* Section 5c: Building Tables (Lec 5.7 - Lec 5.9)
-* Reading and Practice for Section 5c
-* Lab 2: Data Types (Jupyter Notebook)
+You should now have [chosen your data](project-data) and [formed your teams](about-the-project) for the project.
 
-As before, the system will mark your lab work for you.
+For the activities, below, please see the [note on activities](note-on-activities).
 
-Then start Week 3:
+The activities below assume that you have done all the activities from [week 2](week-02-outline) and [week 3](week-03-outline).
 
-* Section 6: Census (Lec 6.1 - Lec 6.4)
-* Reading and Practice for Section 6
+Now go to Week 4 of the [data8x](data8x) course, and complete the following:
+
+* Section 9a: Comparing Histograms (Lec 9.1 - Lec 9.2)
+* Section 10a: Groups (Lec 10.1 - Lec 10.3)
+* Reading and Practice for Section 10a
+* Section 10b: Pivot (Lec 10.4 - Lec 10.6)
+* Reading and Practice for Section 10b
