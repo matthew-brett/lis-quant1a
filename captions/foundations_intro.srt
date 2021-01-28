@@ -1,0 +1,244 @@
+1
+00:00:00,840 --> 00:00:10,270
+Hello and welcome to the introduction video for the course "Foundation of Data Science", in the second semester.
+
+2
+00:00:10,270 --> 00:00:19,530
+And of course, this course builds on top of the stuff that you would have covered in the first semester in the "Introduction to Data Science" course.
+
+3
+00:00:19,530 --> 00:00:24,900
+So there are two things I guess I wanted to talk about in comparison to the course you did last semester.
+
+4
+00:00:24,900 --> 00:00:32,040
+In the course last semester you covered the basics of how to use code for data and how to use the libraries,
+
+5
+00:00:32,040 --> 00:00:38,850
+how to use Python, and a little bit about how to draw conclusions in the presence of randomness,
+
+6
+00:00:38,850 --> 00:00:47,760
+permutation tests and different ways of using permutation to draw conclusions about what you see in data in the real world,
+
+7
+00:00:47,760 --> 00:00:52,650
+assuming some degree of randomness. So we're going to move on in two different ways.
+
+8
+00:00:52,650 --> 00:01:01,560
+And the first way I want to talk about is the approach to data, and that's really centred on the project.
+
+9
+00:01:01,560 --> 00:01:04,980
+So I'm going to talk about the project all the time during this course.
+
+10
+00:01:04,980 --> 00:01:10,950
+The project is the absolute beating heart of the "Foundations of Data science course.
+
+11
+00:01:10,950 --> 00:01:15,060
+So what's going to happen is that, in the first few weeks,
+
+12
+00:01:15,060 --> 00:01:21,690
+I'm going to send you all away to try and find data that you want to analyse, data you're really, really interested in.
+
+13
+00:01:21,690 --> 00:01:28,290
+So there's an enormous amount of data out there available on the web, all sorts of very interesting real data sets.
+
+14
+00:01:28,290 --> 00:01:36,270
+That, I want you to find one and I want you to try and think of things you'd like to find out from the data - conclusions
+
+15
+00:01:36,270 --> 00:01:42,420
+you might like to draw, relationships you might like to try and find.
+
+16
+00:01:42,420 --> 00:01:45,810
+And of course, at the same time, gather a team, because this is a group project.
+
+17
+00:01:45,810 --> 00:01:51,120
+And it's absolutely central to the whole idea here that, you learn to take the skills
+
+18
+00:01:51,120 --> 00:01:54,960
+you've learnt last semester and start applying them in collaboration together,
+
+19
+00:01:54,960 --> 00:02:02,580
+working together on data analysis. So that's one aspect of the course - a different approach to data analysis -
+
+20
+00:02:02,580 --> 00:02:10,650
+Really going for a serious, big, difficult data analysis problem.
+
+21
+00:02:10,650 --> 00:02:21,690
+And the second thing is the extra stuff going to cover. So you're going to build on where we started and ended in the semester last semester.
+
+22
+00:02:21,690 --> 00:02:29,160
+So as you remember, at the end of last semester, we were just beginning to cover the idea of looking at relationships between different measures.
+
+23
+00:02:29,160 --> 00:02:36,450
+So, for example, we were looking at the relationship between the Packed Cell Volume measure in blood tests in
+
+24
+00:02:36,450 --> 00:02:40,650
+kidney patients and the corresponding measure for haemoglobin in those same kidney patients.
+
+25
+00:02:40,650 --> 00:02:47,860
+And we were trying to see if we could find a good and convincing straight line relationship between these these two sets of numbers.
+
+26
+00:02:47,860 --> 00:02:55,530
+That that is simple regression. And we'll go into that a bit more and think about how we would find a good straight line,
+
+27
+00:02:55,530 --> 00:03:01,080
+how we would find a convincing slope for the line in an intercept.
+
+28
+00:03:01,080 --> 00:03:07,650
+And talk about correlation, what the correspondence is to regression.
+
+29
+00:03:07,650 --> 00:03:12,030
+Now, in doing that, we'll come across this fantastic technique called numerical optimisation,
+
+30
+00:03:12,030 --> 00:03:15,330
+which is something that Python and many other languages can do for you.
+
+31
+00:03:15,330 --> 00:03:25,590
+It's a standard technique in computing, which gives us a very neat and automated way of finding the kind of things we're interested in here.
+
+32
+00:03:25,590 --> 00:03:29,370
+So, for example, we want to find a good straight line. What do you mean by good straight line?
+
+33
+00:03:29,370 --> 00:03:33,390
+We mean one that minimises the sum of squares of the errors.
+
+34
+00:03:33,390 --> 00:03:40,170
+And we can go and ask the computer to find us that parameter, search around and find the line which does that for us.
+
+35
+00:03:40,170 --> 00:03:42,810
+And that's that's numerical optimisation.
+
+36
+00:03:42,810 --> 00:03:50,470
+And it's a fundamental technique in and doing a lot of the stuff that we want to do with these kind of inference techniques.
+
+37
+00:03:50,470 --> 00:03:59,160
+And it turns out this extends very simply and obviously to how we would do more interesting and complicated things.
+
+38
+00:03:59,160 --> 00:04:01,530
+So, for example, we were trying to predict, as you remember,
+
+39
+00:04:01,530 --> 00:04:06,240
+the haemoglobin concentration from the Packed Cell Volume concentrations in the same patients.
+
+40
+00:04:06,240 --> 00:04:10,410
+But maybe we've got more than one thing measured in the patient that we want to use to predict.
+
+41
+00:04:10,410 --> 00:04:14,430
+So we've got the Packed Cell Volume to predict the haemoglobin. We've got something else as well.
+
+42
+00:04:14,430 --> 00:04:19,290
+We want to see what we can use them both at the same time to predict the haemoglobin. That's multiple regression.
+
+43
+00:04:19,290 --> 00:04:22,620
+We're using two measures to predict the thing we're interested in.
+
+44
+00:04:22,620 --> 00:04:28,890
+And that falls out, in fact, neatly and gracefully from the simple regression techniques you've already learnt.
+
+45
+00:04:28,890 --> 00:04:32,540
+And then we're going to move on to more stuff. So we're gonna think about prediction a bit more.
+
+46
+00:04:32,540 --> 00:04:37,440
+We're going to think about classification. So putting things into groups, giving them labels.
+
+47
+00:04:37,440 --> 00:04:40,900
+So, for example, kidney patients
+
+48
+00:04:40,900 --> 00:04:45,060
+Does a patient who's come into hospital have chronic disease or do they not have chronic kidney disease.
+
+49
+00:04:45,060 --> 00:04:49,830
+We have some measures we've taken in the blood. Can we use those measures to predict whether they have kidney disease or not?
+
+50
+00:04:49,830 --> 00:04:54,360
+And this is a machine learning problem, often called classification problem.
+
+51
+00:04:54,360 --> 00:05:02,070
+And you build up your own basic machine learning models, classification models and learn how to decide whether they're good models or not.
+
+52
+00:05:02,070 --> 00:05:09,720
+And then finally, in the stuff we'll cover, we'll go on to how you work out whether the parameters that you found
+
+53
+00:05:09,720 --> 00:05:15,900
+- so, for example, the slope in the straight line or or even just the mean of some data in a sample -
+
+54
+00:05:15,900 --> 00:05:23,640
+how good are those parameters? How how much can we trust them? How representative are they from the population from which that sample has been drawn?
+
+55
+00:05:23,640 --> 00:05:31,970
+So, for example, if we have a mean, is that mean likely to be close to the mean of the population or could it be quite a long way away?
+
+56
+00:05:31,970 --> 00:05:38,670
+And this is the problem of confidence intervals. And in doing that will actually also cover how to think about using prior information.
+
+57
+00:05:38,670 --> 00:05:46,290
+And this is Bayes Theorem. So I hope you enjoy this semester.
+
+58
+00:05:46,290 --> 00:05:50,850
+You'll be doing a lot of independent stuff. As I say, the project will be absolutely central.
+
+59
+00:05:50,850 --> 00:05:57,692
+And I think you'll find you will start to get real experience in real data analysis while also covering these extra
+
+60
+00:05:57,692 --> 00:06:01,500
+and I think you'll find, interesting and important topics.
+
+61
+00:06:01,500 --> 00:06:04,692
+So, welcome to the course.
+

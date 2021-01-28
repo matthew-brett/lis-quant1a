@@ -1,0 +1,904 @@
+1
+00:00:01,250 --> 00:00:09,810
+Hello, welcome. So this is the first video that is not the introductory video for the foundation, today's science course.
+
+2
+00:00:09,810 --> 00:00:12,910
+And this video is about the project.
+
+3
+00:00:12,910 --> 00:00:21,310
+Now, I should say, I will talk about the projects and some of the stuff I say won't be on the Web pages, but a lot of it well.
+
+4
+00:00:21,310 --> 00:00:26,830
+So a lot of this video is just going over the stuff on the Web pages, showing you where it is,
+
+5
+00:00:26,830 --> 00:00:36,430
+but also giving you some background and maybe some encouragement and motivation as to why why we're playing it the way we are for this course.
+
+6
+00:00:36,430 --> 00:00:42,350
+So without further ado, I'm going to switch to the mode where I've got the desktop open.
+
+7
+00:00:42,350 --> 00:00:47,530
+And so here is the canvas cause for the module finished today, science.
+
+8
+00:00:47,530 --> 00:00:58,300
+And I put the link to the project right up at the top. So that will open something like this.
+
+9
+00:00:58,300 --> 00:01:04,800
+And you'll see various project pages, and I'm going to go straight to the about the project page.
+
+10
+00:01:04,800 --> 00:01:11,800
+So this gives you the details about the project. And let's just start with very brief indexers introduction.
+
+11
+00:01:11,800 --> 00:01:20,220
+So what you're gonna do is over the course of the first few weeks of time, you're gonna be forming teams of size three or four.
+
+12
+00:01:20,220 --> 00:01:28,310
+And at the same time, you're going to be finding some data that you as a team really, really want to analyse.
+
+13
+00:01:28,310 --> 00:01:34,330
+So there's lots of data out there I'm going to show you, introduce to you some of the sources of data.
+
+14
+00:01:34,330 --> 00:01:40,930
+But the data available to you out on the Web there is is an enormous amount of it.
+
+15
+00:01:40,930 --> 00:01:44,360
+Some of it's difficult to get to. Some of it isn't. It just depends what you're interested in.
+
+16
+00:01:44,360 --> 00:01:47,990
+But you'll you'll see about that in a second. Now, you've got a little bit of a difficult job.
+
+17
+00:01:47,990 --> 00:01:54,080
+And this is why I'm putting this right at the front is. You have to do two things fairly quickly.
+
+18
+00:01:54,080 --> 00:02:02,510
+So just to. Say, now you're going to repeat multiple times during this video and during the course, the project is absolutely central.
+
+19
+00:02:02,510 --> 00:02:09,020
+It's really, really central part of the module. It's not just something that you'll find yourself doing at the end.
+
+20
+00:02:09,020 --> 00:02:18,390
+And I'll talk a bit about that. It's something that you need to start thinking about seriously right at the beginning and then start designing.
+
+21
+00:02:18,390 --> 00:02:24,930
+In the early part of of your course here, and it's a very central part of your learning, so you really,
+
+22
+00:02:24,930 --> 00:02:30,870
+really want to put a lot of effort upfront in finding something that you really care about to work on.
+
+23
+00:02:30,870 --> 00:02:37,270
+So just to return to the difficulty, you've got two things to do. You have the.
+
+24
+00:02:37,270 --> 00:02:41,490
+Problem of finding the right data and they'll be central. Because you've really got to care about it.
+
+25
+00:02:41,490 --> 00:02:46,180
+This is going to be data where you think I want to know what the right answer is. I'm going to collect some stuff together.
+
+26
+00:02:46,180 --> 00:02:50,530
+I'm going to find out something new about the world. Something or cheque, something that I didn't.
+
+27
+00:02:50,530 --> 00:02:57,200
+I don't know whether it's true or not. So you want to find right data when you want to find data that you're really would introduce.
+
+28
+00:02:57,200 --> 00:03:01,630
+And that's very important. But of course, you also want to find a set of people to work with because you're gonna be working in teams.
+
+29
+00:03:01,630 --> 00:03:05,830
+Three or four are going to be working really, really closely with each other. It's going to make a big difference.
+
+30
+00:03:05,830 --> 00:03:12,760
+And you get on. And Asha, a large part of your work here is trying to work out how to work with other people.
+
+31
+00:03:12,760 --> 00:03:19,810
+Some flagging that up now start thinking right now, in the beginning, in the first week where we're not doing formal teaching.
+
+32
+00:03:19,810 --> 00:03:25,150
+Start thinking about this topic. Think about what data you want to analyse. Think about who you want to work with.
+
+33
+00:03:25,150 --> 00:03:33,270
+And how are you going to work with them? Okay, so that's the the background, the motivation, the thing you need to do right now.
+
+34
+00:03:33,270 --> 00:03:38,680
+Now, going to talk a little bit about why the project's such a big part of the course.
+
+35
+00:03:38,680 --> 00:03:48,600
+Now, this course, as I hope you found in the first semester, modu introduction to date science it's all about.
+
+36
+00:03:48,600 --> 00:03:55,050
+Real data analysis is finding data from real sources,
+
+37
+00:03:55,050 --> 00:04:00,930
+from data which is being collected by somebody who's trying to ask some interesting question about the world.
+
+38
+00:04:00,930 --> 00:04:01,860
+And it's analysing that.
+
+39
+00:04:01,860 --> 00:04:10,230
+So you will have seen that the course puts a pretty heavy emphasis on using not pretend data that's been made up, for an example.
+
+40
+00:04:10,230 --> 00:04:16,050
+But that's a real they say it comes to some real source like we saw, for example, analysed data from kidney patients,
+
+41
+00:04:16,050 --> 00:04:26,670
+analysed data from the World Bank, analysed data from a study of student ratings and so on, real data.
+
+42
+00:04:26,670 --> 00:04:31,570
+And that's that was just a taste of, though, because the stuff that's giving you so far is real data.
+
+43
+00:04:31,570 --> 00:04:33,660
+But it's cleaned up. It's in a nice,
+
+44
+00:04:33,660 --> 00:04:41,490
+sort of readily digestible form to try and reduce the number of things we have to we have to teach you so you can get straight to the meat of it.
+
+45
+00:04:41,490 --> 00:04:45,630
+Now, your job in the project is to do real data, real data.
+
+46
+00:04:45,630 --> 00:04:51,780
+So your your job here is to. Use ask your teachers.
+
+47
+00:04:51,780 --> 00:04:59,760
+And the time that you have for us to teach you on the course to do a sort of
+
+48
+00:04:59,760 --> 00:05:06,500
+apprenticeship with us on on how to be a somebody can analyse data in a team.
+
+49
+00:05:06,500 --> 00:05:09,750
+And I think what you're going to find is in your future career.
+
+50
+00:05:09,750 --> 00:05:19,600
+So this is this course is all about your future careers as as a scientist or researchers analysing data or working in industry,
+
+51
+00:05:19,600 --> 00:05:26,910
+wherever you are learning how to do this correctly, learning how to do it efficiently,
+
+52
+00:05:26,910 --> 00:05:31,200
+learning how to study data and draw conclusions from data effectively.
+
+53
+00:05:31,200 --> 00:05:37,860
+And this data analysis that you will do as you will very likely do this exactly.
+
+54
+00:05:37,860 --> 00:05:46,560
+This type of data analysis. A substantial part of your career as somebody who's got a good education you will find is always collaborative.
+
+55
+00:05:46,560 --> 00:05:53,910
+So it may be that, you know, you are doing the most of the analysis, but your collaboration is with somebody,
+
+56
+00:05:53,910 --> 00:06:01,070
+maybe a supervisor or your employer or or someone who wants to review what you've done and understand it.
+
+57
+00:06:01,070 --> 00:06:02,880
+And your job is to try and transmit what you've done,
+
+58
+00:06:02,880 --> 00:06:08,130
+show people what you've done and allow them to repeat it and and go through it and understand where the problems are.
+
+59
+00:06:08,130 --> 00:06:12,330
+So sometimes the analysis is like that is is that a mentor mentee relationship?
+
+60
+00:06:12,330 --> 00:06:20,000
+But actually more commonly, although that is common, but more commonly you'll have a peer relationship.
+
+61
+00:06:20,000 --> 00:06:23,730
+So so you're going to be studying some data, but there'll be various people on the project.
+
+62
+00:06:23,730 --> 00:06:32,000
+So maybe the two of you are writing a paper together or you have been given this project and signed this project to do.
+
+63
+00:06:32,000 --> 00:06:38,940
+And you will both be looking at the data and you will be both be doing the analysis and exploring the data and having different
+
+64
+00:06:38,940 --> 00:06:45,610
+ideas and knocking those ideas down and trying to find out how you're going to knock ideas down and find new ideas in the data.
+
+65
+00:06:45,610 --> 00:06:48,300
+And this is an intensely collaborative process.
+
+66
+00:06:48,300 --> 00:06:54,690
+And one of the things that we really want to teach you is what that process is like, what the process of real data analysis is like.
+
+67
+00:06:54,690 --> 00:07:02,280
+And it's a it's a process that's inherently a team process and a team process that's got a variety of aspects to it.
+
+68
+00:07:02,280 --> 00:07:10,150
+Now, one of them is the mechanics, just just how you work together and will develop Lobo stuff about that.
+
+69
+00:07:10,150 --> 00:07:19,060
+I mean, we'll talk a little bit formally about. About that process. You will spend a lot of time thinking about that process.
+
+70
+00:07:19,060 --> 00:07:25,070
+But some of it's just about management and I mean management's.
+
+71
+00:07:25,070 --> 00:07:28,850
+I don't know. I'm going to use Pasma of a small M. If you take my meaning.
+
+72
+00:07:28,850 --> 00:07:32,360
+So so sort of not management as in the kind of thing you study in business school.
+
+73
+00:07:32,360 --> 00:07:40,220
+But just how you work out how to work together, how you plan, how you step back and ask yourself, what are we doing a good job?
+
+74
+00:07:40,220 --> 00:07:45,350
+How could we do a better job? How you think about allocating tasks that you're working efficiently.
+
+75
+00:07:45,350 --> 00:07:54,140
+How do you make a productive working team? How do you make sure that you're all engaged and enjoying the process and interested in it?
+
+76
+00:07:54,140 --> 00:08:00,080
+All of this is so central to real data analysis and it's going to be so central to
+
+77
+00:08:00,080 --> 00:08:06,740
+your working life in the projects that you're gonna be doing here in the module.
+
+78
+00:08:06,740 --> 00:08:11,860
+OK. So that's that's the background. And as I say.
+
+79
+00:08:11,860 --> 00:08:20,140
+It's really central, and I'm going to say now that I hope and this is the expensive of many stews that you really enjoy.
+
+80
+00:08:20,140 --> 00:08:26,380
+This will this will turn out to be a very enjoyable part of your learning.
+
+81
+00:08:26,380 --> 00:08:34,300
+One of the it's when you start getting really interested in data and trying to find out new things from data.
+
+82
+00:08:34,300 --> 00:08:41,890
+You are the expert. You become the expert in it. It's it's like it's what researchers you're researching inside data.
+
+83
+00:08:41,890 --> 00:08:46,120
+And it's it's it's a [INAUDIBLE] of a lot of fun and it's it's really your thing.
+
+84
+00:08:46,120 --> 00:08:53,330
+So you will find yourself yourselves. Really owning this project.
+
+85
+00:08:53,330 --> 00:08:57,710
+And I hope you find in this. This is what happens to many people you are actually very proud of.
+
+86
+00:08:57,710 --> 00:09:05,230
+The thing that you produced together at the end. Okay, so that's kind of the pitch to give you sort of a basic idea.
+
+87
+00:09:05,230 --> 00:09:06,610
+Now, as promised,
+
+88
+00:09:06,610 --> 00:09:15,310
+I'm going to go through the pages just a little bit to explain what the canvass pages have on to sort of help you get going with the projects.
+
+89
+00:09:15,310 --> 00:09:22,030
+So the first thing is this main page that I've just shown you. And so the procedure is going to be, as I said, you have this difficult problem.
+
+90
+00:09:22,030 --> 00:09:24,650
+You got to both find the data and you've got to find a team.
+
+91
+00:09:24,650 --> 00:09:30,880
+And again, I spent some time helping you to do that, helping you to to form teams, because we've obviously got that problem were all online.
+
+92
+00:09:30,880 --> 00:09:37,090
+And so we don't you can't sort of wander around real and find a team who go after sort of going out to do some some stuff in in sessions,
+
+93
+00:09:37,090 --> 00:09:43,990
+trying to work out how we can collect you guys together into into teams.
+
+94
+00:09:43,990 --> 00:09:48,070
+So you've got to find the data. You've got to find find the team.
+
+95
+00:09:48,070 --> 00:09:55,000
+Now, the way this is going to work out is that I suspect that, like some of you are gonna have very strong feelings.
+
+96
+00:09:55,000 --> 00:09:59,530
+You really want to do this particular data analysis and then you're gonna go out
+
+97
+00:09:59,530 --> 00:10:02,590
+and find some other people who might be interested in your fascinating idea.
+
+98
+00:10:02,590 --> 00:10:07,030
+And others of you are don't have a particular data that you're really interested in.
+
+99
+00:10:07,030 --> 00:10:11,200
+But you have people who are ready where you want to work with. And then there'll be some of you who have neither of those two things.
+
+100
+00:10:11,200 --> 00:10:15,010
+But I would I would try not to be in that third group where you have neither.
+
+101
+00:10:15,010 --> 00:10:17,590
+People who want to work with nor data who want to work on any particular.
+
+102
+00:10:17,590 --> 00:10:24,520
+I'd spend a lot of time thinking about what data you want to work on, because, as I say, it makes if we huge difference if you really get into this.
+
+103
+00:10:24,520 --> 00:10:30,460
+If you start enjoying it, you'll learn so much more. You have so much more fun and you'll have something in the end of you are proud of.
+
+104
+00:10:30,460 --> 00:10:37,360
+And you could show other people, for example, people you might work with in the future.
+
+105
+00:10:37,360 --> 00:10:43,660
+So I would put a lot of effort now into looking at your data.
+
+106
+00:10:43,660 --> 00:10:51,370
+Now, this is setting how well then work. So in the end, after we've gone through this process of you looking around for the data,
+
+107
+00:10:51,370 --> 00:10:56,100
+you're interested in looking around for people who want to work with, it's going to end up with team pitches.
+
+108
+00:10:56,100 --> 00:11:05,190
+So once you have formed yourself a team, three or four of you, you as a team will send me an email saying,
+
+109
+00:11:05,190 --> 00:11:12,130
+you know, we are Team X, Y, Z and the other people that's gonna be on your team.
+
+110
+00:11:12,130 --> 00:11:14,140
+They should all be CCD on the email.
+
+111
+00:11:14,140 --> 00:11:20,260
+And then you should say what data you want to analyse, what your provisional plan is, what you are expecting to find.
+
+112
+00:11:20,260 --> 00:11:23,940
+Fully anticipating, of course, because this is real data analysis.
+
+113
+00:11:23,940 --> 00:11:27,010
+That's this is just a start is the first place you're going to look,
+
+114
+00:11:27,010 --> 00:11:32,650
+but you're definitely going to start exploring further and perhaps refuting your initial conclusions and so on.
+
+115
+00:11:32,650 --> 00:11:37,030
+So it's just an initial sketch of what your investment plan will look like. So I can go and have a look.
+
+116
+00:11:37,030 --> 00:11:38,830
+I can cheque that the data actually exists.
+
+117
+00:11:38,830 --> 00:11:44,650
+I can cheque that it's plausible that you could at least get started and give you some feedback on the proposal.
+
+118
+00:11:44,650 --> 00:11:51,920
+So you sent me that email and I will usually say, yes, that's fine, perhaps with some suggestions, but you need to send me an email.
+
+119
+00:11:51,920 --> 00:11:55,990
+I need to say, yes, that's fine in order for you to form together our team and get going on the projects.
+
+120
+00:11:55,990 --> 00:12:03,430
+So that is your job over the next few weeks.
+
+121
+00:12:03,430 --> 00:12:07,330
+So here is the campus pages. Here is the team request.
+
+122
+00:12:07,330 --> 00:12:11,170
+So please read that and read it carefully. Please send me this property request.
+
+123
+00:12:11,170 --> 00:12:18,190
+Don't just sort of assume that you can get on with whatever your thoughts are, because I really do need to cheque it before you carry on.
+
+124
+00:12:18,190 --> 00:12:24,130
+Otherwise, you may find yourself wasting time. So please do that email correctly and wait for my response.
+
+125
+00:12:24,130 --> 00:12:33,620
+Now, the next thing is to talk about the data for projects. Now here is a list on canvas of.
+
+126
+00:12:33,620 --> 00:12:39,890
+I places where you might look for data, NASA. There are just so many different places you can look for data.
+
+127
+00:12:39,890 --> 00:12:46,700
+Many of these links here here are basically links to places where you can search for data sets, but you may have other ideas.
+
+128
+00:12:46,700 --> 00:12:51,770
+So, for example, I haven't yet put down here links for data from Cauvin.
+
+129
+00:12:51,770 --> 00:12:54,200
+If you want to study, for example, kovil it over time.
+
+130
+00:12:54,200 --> 00:13:02,180
+If you want to study, you know, different responses, governmental responses and their effect on Kofod rates, all that kind of stuff.
+
+131
+00:13:02,180 --> 00:13:09,590
+I haven't yet put links in here. There are many links for that kind of thing. Whatever you want to do, whatever you're interested in.
+
+132
+00:13:09,590 --> 00:13:13,820
+Just go and have a look. Search on Google search using these links.
+
+133
+00:13:13,820 --> 00:13:20,240
+Try and find data that you're really interested in. And I suggest that you all do that.
+
+134
+00:13:20,240 --> 00:13:24,830
+There's everybody goes and looks to find the data that you're really interested in and then you can start negotiating between you,
+
+135
+00:13:24,830 --> 00:13:27,290
+whether you have some overlap and where you want to study.
+
+136
+00:13:27,290 --> 00:13:33,710
+And and you've got different suggestions that you all can sort of pitch in and try and find the best project together,
+
+137
+00:13:33,710 --> 00:13:37,250
+because if you've got three or four projects to propose, you're going to come out with one good one.
+
+138
+00:13:37,250 --> 00:13:43,180
+Whereas if you're going to get one project proposed during the 40 minutes, maybe that maybe won't be so good.
+
+139
+00:13:43,180 --> 00:13:48,740
+So if you have any questions about whether the data is suitable, you know, please just e-mail me.
+
+140
+00:13:48,740 --> 00:13:57,800
+I'm very, very happy to talk about it. So and this the rest of the page is just bit more detail on this pitch you're going to make to me,
+
+141
+00:13:57,800 --> 00:14:08,580
+this email that you're going to send out to to me to cheque with me that your proposal for your team and the proposal for the data is suitable.
+
+142
+00:14:08,580 --> 00:14:14,730
+Now, the next thing I wants to talk about was workflow.
+
+143
+00:14:14,730 --> 00:14:21,150
+So one of the things that tends to happen is stop me if this sounds crazy,
+
+144
+00:14:21,150 --> 00:14:27,750
+is that you tend to assume that this is a bit like like any other module where.
+
+145
+00:14:27,750 --> 00:14:34,150
+Yeah. Okay. The instructor says, you know, you have to get going straight away and you have to keep working all the way through the time.
+
+146
+00:14:34,150 --> 00:14:41,370
+But, you know, in fact, you know, basically you can get away with sort of like like being fairly slack and sort of like taking it easy.
+
+147
+00:14:41,370 --> 00:14:50,940
+Up until two weeks before the end and end, you can get going. Now, there's two really big problems with that now.
+
+148
+00:14:50,940 --> 00:14:54,420
+I mean, I'm not saying, you know, I haven't done that because, you know, all of us have done that at some point.
+
+149
+00:14:54,420 --> 00:14:57,870
+But this really isn't going to work for this for two reasons.
+
+150
+00:14:57,870 --> 00:15:02,520
+The first is you have to do a lot of work.
+
+151
+00:15:02,520 --> 00:15:11,140
+You have to do a lot of work. And it has to be right. So you can't just sort of do any old and assess because, well, first you'll find it.
+
+152
+00:15:11,140 --> 00:15:14,930
+It's more difficult. You'll get going. You know, right at the end and then you find out it's much more difficult.
+
+153
+00:15:14,930 --> 00:15:20,880
+He thought it was. And you haven't got time to ask all the questions you really wanted to ask of
+
+154
+00:15:20,880 --> 00:15:26,370
+me and the D.A. about how to do things and how to find more data and stuff. So you'd just find it is too much work.
+
+155
+00:15:26,370 --> 00:15:31,480
+You just can't do that much work in two weeks. And so it'll be really, really miserable.
+
+156
+00:15:31,480 --> 00:15:34,110
+But the other thing is this is a collaborative project.
+
+157
+00:15:34,110 --> 00:15:42,480
+So the thing which is going to appear at the end is going to be a combined bit of work between three and four of you, three or four of you.
+
+158
+00:15:42,480 --> 00:15:50,130
+And you just can't all three or four of you work really intensely for two weeks together.
+
+159
+00:15:50,130 --> 00:15:57,030
+I think your finds I mean, please don't try it, but if you do try it, you'll find that that turns into a miserable mess.
+
+160
+00:15:57,030 --> 00:16:03,540
+And basically, you produce a lot less work than if there are three or four of you have been working steadily together,
+
+161
+00:16:03,540 --> 00:16:08,580
+collaborating, planning each week. And so I'm just gonna point you to the quote here.
+
+162
+00:16:08,580 --> 00:16:18,030
+So the procedure for this project comes from a course that we taught in in Berkeley in 2015.
+
+163
+00:16:18,030 --> 00:16:26,280
+And one of the students gave the following feedback to us, which which made us really proud because it was exactly what we were were hoping for.
+
+164
+00:16:26,280 --> 00:16:29,370
+So this was this was in a written student feedback.
+
+165
+00:16:29,370 --> 00:16:35,250
+Unlike most group projects, which last for maybe a few weeks tops, or could conceivably be pulled off by one very dedicated person.
+
+166
+00:16:35,250 --> 00:16:41,700
+This one will dominate the entire semester. Tried to stay organised for the project and create lots of little goals and cheque points.
+
+167
+00:16:41,700 --> 00:16:46,200
+You should always be working on something for the project, whether that's coding, reviewing, writing, etc.
+
+168
+00:16:46,200 --> 00:16:51,210
+Ask lots of questions and ask them early. That is excellent advice.
+
+169
+00:16:51,210 --> 00:17:01,110
+That is really, really good advice. I just read out this section here from one of your one of your fellow students, often in California.
+
+170
+00:17:01,110 --> 00:17:06,840
+Please follow it. It is the right advice and it's going to make a big difference if you try and do it all in the end.
+
+171
+00:17:06,840 --> 00:17:11,760
+It's going to be miserable. It's going to be really, really miss when you're going to do a bad job and you'll learn a lot less.
+
+172
+00:17:11,760 --> 00:17:17,810
+Please take this seriously. Please start really early and make the best possible use of us, your instructors in particular,
+
+173
+00:17:17,810 --> 00:17:21,780
+and and will we'll be adapting the course to the questions you ask.
+
+174
+00:17:21,780 --> 00:17:30,060
+The more questions you can ask, the earlier you can ask them, the better you'll be able to do. And the more the more you'll enjoy it.
+
+175
+00:17:30,060 --> 00:17:39,170
+Now. One of the problems here is that this project is likely to be quite unlike anything you've done before.
+
+176
+00:17:39,170 --> 00:17:47,120
+So what we found was when we were doing this project in sees me when we're doing this project in in Berkeley,
+
+177
+00:17:47,120 --> 00:17:56,060
+was that around about halfway through the course, the students started to realise that they had a really independent job here.
+
+178
+00:17:56,060 --> 00:18:01,910
+It was a very difficult, independent job. So they had to make up that to find their own question.
+
+179
+00:18:01,910 --> 00:18:05,560
+They had some data which that they'd found and they would go to work on it.
+
+180
+00:18:05,560 --> 00:18:11,000
+But instead of being asked to answer a particular question sent by the examiner,
+
+181
+00:18:11,000 --> 00:18:16,670
+it's it was their job to find the questions they wanted to ask and then answer them and then find new questions.
+
+182
+00:18:16,670 --> 00:18:23,060
+It's really radically independent. We're working. It's a very different way of working than many may be used to.
+
+183
+00:18:23,060 --> 00:18:29,780
+And for many people, it can be a bit alarming. It can't kind of feel as if you don't really know where the guardrails are.
+
+184
+00:18:29,780 --> 00:18:37,470
+But that's deliberate, that sort of feeling that you don't know where you're going and you kind of sort of need to set out sort of on your own down.
+
+185
+00:18:37,470 --> 00:18:42,230
+I would say on your own, but as a team down some path and you don't know where it's leading.
+
+186
+00:18:42,230 --> 00:18:50,870
+That is absolutely central to research. And as you please ask any researcher who's published research, but that is just what research is.
+
+187
+00:18:50,870 --> 00:18:52,790
+It's what it looks like. That sort of feeling,
+
+188
+00:18:52,790 --> 00:19:00,140
+a fear that you don't know really know where you're going to go out into the unknown and you might get lost totally central to how research works.
+
+189
+00:19:00,140 --> 00:19:12,150
+And so that's that's really important, that feeling. And again, the way to to avoid panic, which can be disabling, is to start early.
+
+190
+00:19:12,150 --> 00:19:18,680
+Get into the question star question, start with three simple questions and see see what kind of simple answers you can get.
+
+191
+00:19:18,680 --> 00:19:23,700
+And then start building on top of that. And then I think you'll find that just the process of exploring, checking,
+
+192
+00:19:23,700 --> 00:19:27,140
+finding things, seeing whether the wrongs funding with the right is too simple.
+
+193
+00:19:27,140 --> 00:19:32,970
+It'll just keep driving you towards your final conclusion and you will have no idea where that final conclusion will be.
+
+194
+00:19:32,970 --> 00:19:38,640
+Probably, but you'll be stepping towards it, stepping out into the unknown, towards it.
+
+195
+00:19:38,640 --> 00:19:42,090
+If you leave it too late, this is going to be again.
+
+196
+00:19:42,090 --> 00:19:47,220
+The panic will set in pretty severely and I'll be very uncomfortable. Again, same thing for research.
+
+197
+00:19:47,220 --> 00:19:49,800
+I'm just saying you will feel, you know,
+
+198
+00:19:49,800 --> 00:19:55,980
+I don't know what I should do because this is such a different assessment from from many assessments you would have done.
+
+199
+00:19:55,980 --> 00:20:06,120
+That's perfectly sustainable. It's it's desirable because this is a training for real data nancies real research.
+
+200
+00:20:06,120 --> 00:20:15,680
+And then lastly, there's some. So scaffolding for what the procedure is going to be, but I'm not going to talk about that right now because,
+
+201
+00:20:15,680 --> 00:20:20,960
+you know, it's a there's going to you're going to have to. You're gonna be doing a progress report sort of about three quarters of the way
+
+202
+00:20:20,960 --> 00:20:24,770
+into the semester and then a presentation towards the end of the semester.
+
+203
+00:20:24,770 --> 00:20:29,120
+And that'll be of a few a week or so before you finally submit the project.
+
+204
+00:20:29,120 --> 00:20:33,560
+And you basically will also met that. You're so awesome at just one thing.
+
+205
+00:20:33,560 --> 00:20:38,210
+So the four of you will submit one project and you will you'll see from the marking scheme,
+
+206
+00:20:38,210 --> 00:20:44,760
+most of your marks come from that project and you will share the marks. You all get those marks from that project.
+
+207
+00:20:44,760 --> 00:20:52,850
+So it's really a shared work. And the better you work together, the more work you do together, the more marks you will all get.
+
+208
+00:20:52,850 --> 00:20:58,880
+And the only other thing is this. So I wanted to show you the rubric for the marking.
+
+209
+00:20:58,880 --> 00:21:05,780
+Not particularly. I I have encouraged you multiple times, I think on the Web pages not to worry too much about your marks.
+
+210
+00:21:05,780 --> 00:21:10,310
+That's I don't want you to be thinking about your marks. It's not the most important thing to me.
+
+211
+00:21:10,310 --> 00:21:17,560
+The most important thing to me is that you are learning and you have the destructor to learn.
+
+212
+00:21:17,560 --> 00:21:23,000
+But this is the marking rubric from which I want you to gain only an idea of the kind of thing
+
+213
+00:21:23,000 --> 00:21:26,570
+we'll be thinking about when we're looking at the project and the kind of thing we want from you.
+
+214
+00:21:26,570 --> 00:21:34,220
+So that maybe you can use these this marking rubric which we've put here to for you to to read so you
+
+215
+00:21:34,220 --> 00:21:39,230
+can see what criteria of using use the marking rubric to understand the kind of thing we want from you.
+
+216
+00:21:39,230 --> 00:21:44,000
+As you're doing the project. So read this thing now and have a look.
+
+217
+00:21:44,000 --> 00:21:53,580
+What we're looking for so that you can you can use the things we're looking for in your work early and through the term.
+
+218
+00:21:53,580 --> 00:21:57,730
+Okay, so I'm going to switch back to off the page now.
+
+219
+00:21:57,730 --> 00:22:01,240
+So that was just an introduction to the project.
+
+220
+00:22:01,240 --> 00:22:06,640
+As I say, you're going to hear from me about the projects over and over again until you are saying to yourself,
+
+221
+00:22:06,640 --> 00:22:14,860
+why won't that guy stop talking about the project? Because it's so important is absolutely central to your learning for this module.
+
+222
+00:22:14,860 --> 00:22:18,040
+And so I'm just gonna say again,
+
+223
+00:22:18,040 --> 00:22:28,750
+really put the work in in the next few weeks to get yourself ready to find some great data and some team-mates you want to work with and get going.
+
+224
+00:22:28,750 --> 00:22:35,440
+And if you do, I think you'll find with many other students who've done this module in various forms,
+
+225
+00:22:35,440 --> 00:22:40,930
+you really enjoy yourselves and you'll be proud of what you produce. And we'll will be proud of you, too.
+
+226
+00:22:40,930 --> 00:22:55,283
+I mean, it's it's been great fun reading the stuff that you, your predecessors have produced.
+
