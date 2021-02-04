@@ -133,13 +133,13 @@ These are TBA, except for the "Projects due" deadline.  See [assessments](assess
 <!---
 | Week | Date       | Class                     |
 | ---- | ---------- | ------------------------- |
-| 1    | 13 Jan     | Start to form teams       |
+| 1    | 1 Feb      | Start to form teams       |
 | 2    | 20 Jan     | Data pitches 1            |
 | 3    | 27 Jan     | Data pitches 2            |
 | 4    |  3 Feb     | Teams finalized           |
 | 8    |  2 Mar     | Progress reports          |
 | 10:3  | 20 Apr    | Presentations             |
-| 1:3  | 27 Apr     | Projects due              |
+| 1:3  | 21 May     | Projects due              |
 -->
 
 
@@ -174,3 +174,15 @@ In a previous version of this class, the data topics included:
 * Analyzing public NASA data to identify nearby habitable planets.
 * Analysis of train timetable and departure / arrivals data for evidence of
   poor performance of particular train companies or lines.
+
+## An example project
+
+To give you some idea of what a project looks like, here is a project from a previous year, from a first-year undergraduate version of this module:
+
+<https://github.com/matthew-brett/team-windrush>
+
+The team members kindly gave permission for me to put this up publicly.
+
+Your projects will be more extensive than this one, and may be in a different format, but at least this gives you some idea of what they may look like.
+
+The notebooks take a while to load in the web interface, so you might consider downloading the whole thing to your computer with the big green "clone or download" button, then uploading to JupyterHub, and opening in Jupyter.

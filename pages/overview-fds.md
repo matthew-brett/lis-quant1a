@@ -17,6 +17,30 @@ conclusions from data.
 The [project](../modules/373659) is a large part of the course, in terms of
 time, and in terms of teaching and [assessment](assessment).
 
+## Lectures / workshops
+
+All sessions are 2 hours long, with a 10 minute break in the middle.  They are
+a mixture of lecture and workshop; y'all will go out into breakout rooms for
+exercises every half-an hour or so.
+
+The sessions are on Monday and Tuesday of every week, starting in the second week of term (the week starting February 8th).
+
+**Be careful - the days-times of the sessions are a little odd**, because of
+timetable clashes.  These turned out to be a big problem because a) the course
+has students from 2nd and 3rd year undergraduate neuroscience as well as the
+MSc programmes and b) I (Matthew) teach on several different programmes,
+including undergraduate psychology and the MSc air-quality / air-pollution
+courses.
+
+There are sessions:
+
+* Monday 11-1pm all weeks **except week 4** for which the session is from
+  **4.30-6.30pm**.
+* Tuesday 4-6pm all weeks **except weeks 9 through 11**. For those weeks the
+  session is from **2-4pm**.
+
+I have entered all these in Zoom - see the Zoom section for details.
+
 ## Teachers and TAs
 
 See [meet the team](meet-the-team).
