@@ -79,7 +79,7 @@ If you find a dataset you cannot load - for example, a dataset that is not in CS
   analysis](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm).
 * [Propublica data store](https://www.propublica.org/datastore).
 
-## Your pitch
+## Describing data for team requests
 
 When pitching or justifying your data, think on these headings:
 

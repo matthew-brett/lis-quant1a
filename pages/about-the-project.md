@@ -32,9 +32,14 @@ Your email should have:
 * sketch your plan for the initial analysis, and the final results that you
   hope for.
 
+See the section "Describing data ..." in the [project data](project-data)
+page for more details on how to describe your data and what you want to do with it.
+
 ## Data
 
-See [data for projects](project-data)
+See [data for projects](project-data).
+
+For pitching your data to your colleagues - see [data pitches](project-data-pitches).
 
 ## Workload
 
@@ -128,20 +133,15 @@ In summary:
 
 ## Dates
 
-These are TBA, except for the "Projects due" deadline.  See [assessments](assessments).
-
-<!---
 | Week | Date       | Class                     |
 | ---- | ---------- | ------------------------- |
 | 1    | 1 Feb      | Start to form teams       |
-| 2    | 20 Jan     | Data pitches 1            |
-| 3    | 27 Jan     | Data pitches 2            |
-| 4    |  3 Feb     | Teams finalized           |
-| 8    |  2 Mar     | Progress reports          |
-| 10:3  | 20 Apr    | Presentations             |
-| 1:3  | 21 May     | Projects due              |
--->
-
+| 3    | 16 Feb     | Data pitches 1            |
+| 4    | 22 Feb     | Data pitches 2            |
+| 5    |  2 Mar     | Teams finalized           |
+| 9    | 19-23 Apr  | Progress reports          |
+| 12   | 10-15 May  | Presentations             |
+| 13   | 21 May     | Projects due              |
 
 ## Progress report
 
