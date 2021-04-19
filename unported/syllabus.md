@@ -26,6 +26,8 @@ permalink: /syllabus
 * Scatter plots
 * Bar charts
 * Histograms
+* Aggregation with Pandas `groupby`
+* Merging data with Pandas `merge` and `join`
 
 ## Statistics
 
@@ -39,5 +41,7 @@ permalink: /syllabus
 * The bootstrap
 * Regression
 * Correlation
-* (Multiple regression)
-* Machine learning
+* Nearest neighbors classifiers
+* Multiple regression
+* Logistic regression
+* Bayes and credible intervals
