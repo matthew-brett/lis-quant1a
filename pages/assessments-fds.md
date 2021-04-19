@@ -28,7 +28,7 @@ together](Working together).
 There are three graded assessments.
 
 1. Homework 1: 15%; deadline 12 March 2021
-2. Homework 2: 15%; deadline 7 April 2021
+2. Homework 2: 15%; deadline 14 April 2021
 3. Advanced analysis project: 70%; deadline 21 May 2021
 
 See the [assignments list](../assignments) for links to the assignments.
