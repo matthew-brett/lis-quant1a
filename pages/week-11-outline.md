@@ -2,12 +2,12 @@
 
 ## Workshops
 
-* [Monday 9am; live
-  workshop](https://bham-ac-uk.zoom.us/j/88906777164?pwd=U0VMZjFBbG5oNVdYTzU1My9raVJYZz09);
-  [workshop notes](monday-7-december-workshop).
-* [Tuesday 4pm; live
-  workshop](https://bham-ac-uk.zoom.us/j/85853523949?pwd=RlB5VStycUdBek1LcEg3bVhGVUN6UT09);
-  [workshop notes](tuesday-8-december-workshop).
+* **Notice changed time**: [Tuesday 2pm; live
+  workshop](https://bham-ac-uk.zoom.us/j/85123056513?pwd=ckdQdStocExHZks1ZG5xL0szNmVHQT09);
+  [workshop notes](tuesday-4-may-workshop).
+* **Rescheduled time**: [Friday 1pm; live
+  workshop](https://bham-ac-uk.zoom.us/j/84113713723?pwd=WHZwY3BHMzQ2ckJ4S0RrVXYyYmdTdz09);
+  [workshop notes](friday-7-may-workshop).
 
 See the Panopto section for the recordings of these workshops.
 
