@@ -4,7 +4,7 @@
 
 * **Notice changed time**: [Tuesday 2pm; live
   workshop](https://bham-ac-uk.zoom.us/j/85123056513?pwd=ckdQdStocExHZks1ZG5xL0szNmVHQT09);
-  [workshop notes](tuesday-4-may-workshop).
+  [workshop notes](notes-for-tuesday-4-may)
 * **Rescheduled time**: [Friday 1pm; live
   workshop](https://bham-ac-uk.zoom.us/j/84113713723?pwd=WHZwY3BHMzQ2ckJ4S0RrVXYyYmdTdz09);
   [workshop notes](friday-7-may-workshop).
