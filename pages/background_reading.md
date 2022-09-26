@@ -1,9 +1,3 @@
----
-layout: single
-title: Background reading
-permalink: /background_reading
----
-
 # Background reading
 
 This course has a rather different focus from many introductory courses to
@@ -37,6 +31,11 @@ handbook](https://jakevdp.github.io/PythonDataScienceHandbook) is a good
 resource.  It is very clear, well-written, and up to date, but it is not
 suitable for a beginner in Python.
 
+The definitive book on the Pandas data library is [Python for data
+analysis](https://wesmckinney.com/book) by Wes McKinney.  It is well-written,
+and a good reference, but you may find you need some background to get the best
+out of it.
+
 ## Python programming in general
 
 You will find many good free online resources for learning Python programming
@@ -54,3 +53,17 @@ page](https://greenteapress.com/wp/think-python-2e).
 There is an interactive edition based on the same original text at [Think Like
 a Computer Scientist interactive
 edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html).
+
+## Principles of understanding data
+
+For good discussion of many important topics in understanding data, we highly
+recommend the book *Thinking Clearly with Data*, by Bueno de Mesquita and
+Fowler (2021).  You can [find this on
+Perlego](https://www.perlego.com/book/2646783/thinking-clearly-with-data-a-guide-to-quantitative-reasoning-and-analysis-pdf)
+if you have access.
+
+## Visualization
+
+Please consider reading Edward Tufte's extraordinary book on *The Visual
+Display of Quantitative Information*.  It is an extremely powerful, cogent and
+beautiful exposition of using graphics and plots to convey information in data.
