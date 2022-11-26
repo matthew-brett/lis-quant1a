@@ -1,21 +1,25 @@
-Carl Bergstrom and Jevin West run a course at the University of Washington
-called [Calling Bullshit](https://www.callingbullshit.org). Quoting from that
-page:
+The preparation for this week follows on the from preparation
+from the previous two weeks.
 
-> Our aim in this course is to teach you how to think critically about the
-data and models that constitute evidence in the social and natural sciences.
+## More on causality
 
-This is an introduction to thinking about what bullshit it, and how to spot
-it.
+We will be using the book "Thinking clearly with data".   Find it
+on Perlego or in the library.  The library has three copies.  See
+the section on the book at the top of the Cortex menu for a link
+to the book and to the figures for the book, which are still
+missing from the Perlego copy.
 
-To prepare, first read this classic essay [On
-Bullshit](https://www.perlego.com/book/734330/on-bullshit-pdf).  It is 80
-short pages, and we think this will take you a less than 3 hours.
+Read the following chapters:
 
-Next, do a [Bullshit
-inventory](https://www.callingbullshit.org/exercises_inventory.html) — see the
-link for details.
+* Preface
+* Chapter 3: Causation
+* Chapter 9: Why correlation does not imply causation
 
-Submit your inventory via this link on Cortex.
+Do exercises:
 
-We will discuss your ideas in class.
+* 3.1
+* 3.4
+* 9.3
+* 9.4
+
+We will discuss these in class.
